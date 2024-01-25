@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406140436610",
+    "project_id": "financas-360-br",
+    "storage_bucket": "financas-360-br.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406140436610:android:f1bbeb233bcc683b0ff49b",
+        "android_client_info": {
+          "package_name": "com.example.financas_360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm2m6_qaCMkoc96Hm1GwURzQ4xe-Jwe80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
